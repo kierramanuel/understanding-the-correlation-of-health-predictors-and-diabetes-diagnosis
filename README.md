@@ -1,0 +1,2 @@
+# understanding-the-correlation-of-health-predictors-and-diabetes-diagnosis
+This project involved implementing a supervised learning approach using binary classification models to predict diabetes in patients based on diagnostic measurements. The data for the project was collected from hundreds of observations and included both categorical and numeric variables, which were cleaned and prepared for analysis.
